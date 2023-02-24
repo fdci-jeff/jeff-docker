@@ -1,0 +1,2 @@
+172.23.0.1 - - [24/Feb/2023:07:04:59 +0000] "POST /api/auth/register HTTP/1.1" 200 119 "-" "PostmanRuntime/7.31.0"
+172.23.0.1 - - [24/Feb/2023:07:05:06 +0000] "POST /api/auth/register HTTP/1.1" 200 206 "-" "PostmanRuntime/7.31.0"
